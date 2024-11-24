@@ -21,4 +21,4 @@
 
 ### Видео
 
-<video src="./screenshot/preview.mp4"></video>
+![видео](./screenshot/preview.mp4)
