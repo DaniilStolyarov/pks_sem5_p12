@@ -23,4 +23,6 @@
 ![{E44EBB75-B293-4FDE-A139-F933009569A5}](https://github.com/user-attachments/assets/0a5e4794-be98-4e66-a230-e61a6310a85f)
 
 ### Видео
-[!video](https://www.youtube.com/watch?v=1kLVq8CplBo)
+
+https://github.com/user-attachments/assets/d61be727-11ef-4d88-8d7c-a2e2a8efba16
+
