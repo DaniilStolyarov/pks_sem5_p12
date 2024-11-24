@@ -19,4 +19,5 @@
 
 
 ### Видео
-![видео](./screenshot/preview.mp4)
+
+<video src="./screenshot/preview.mp4"></video>
