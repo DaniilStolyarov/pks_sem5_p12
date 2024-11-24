@@ -19,5 +19,3 @@
 
 
 ### Видео
-
-<video src="./screenshot/preview.mp4"></video>
