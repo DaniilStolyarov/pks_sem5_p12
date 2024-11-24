@@ -21,4 +21,4 @@
 
 ### Видео
 
-![видео](./screenshot/preview.mp4)
+<video src="https://github.com/DaniilStolyarov/pks_sem5_p12/raw/refs/heads/master/screenshot/preview.mp4" width="180"> </video>
